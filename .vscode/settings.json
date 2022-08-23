@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "matplotlib",
+        "seaborn",
+        "sklearn",
+        "telco"
+    ],
+    "cSpell.ignoreWords": [
+        "Explainability",
+        "Interpretability"
+    ]
+}
